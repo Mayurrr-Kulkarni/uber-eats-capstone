@@ -1,0 +1,151 @@
+restaurant_id,name,category,avg_rating,prep_time_mean,price_tier
+REST_0001,Odom PLC,Fast Food,3.5,14.9,$$
+REST_0002,Gutierrez LLC,Fast Food,4.5,15.4,$$
+REST_0003,Hawkins PLC,Indian,4.2,16.1,$$$$
+REST_0004,"Buck, Garrett and Simmons",Italian,4.3,22.7,$$$$
+REST_0005,Williams-Cooper,Healthy/Vegan,3.3,28.6,$$
+REST_0006,"Powers, Floyd and Flores",Asian,4.6,20.2,$$$
+REST_0007,Russell-Evans,Dessert,4.3,23.2,$$$$
+REST_0008,Webster Group,Fast Food,4.3,17.7,$$
+REST_0009,Atkinson LLC,Healthy/Vegan,4.1,28.9,$$$$
+REST_0010,"Thomas, Ford and Brown",Dessert,4.3,20.6,$$
+REST_0011,Faulkner-Grant,Healthy/Vegan,3.7,25.9,$$$$
+REST_0012,Price LLC,Asian,3.9,18.1,$$$
+REST_0013,Rivera Inc,Dessert,3.9,16.8,$$$$
+REST_0014,Boone-Davis,Mexican,5.0,24.0,$$$$
+REST_0015,"Calderon, Williams and Bennett",Fast Food,5.0,11.3,$$
+REST_0016,"Morrison, Russo and Lopez",Dessert,4.2,16.1,$$
+REST_0017,"Ramsey, Hansen and Mendoza",Dessert,3.9,17.2,$$$
+REST_0018,Turner-Stout,Italian,4.7,23.8,$$$$
+REST_0019,Giles Ltd,Dessert,4.6,21.8,$$$
+REST_0020,Burgess Group,Mexican,5.0,15.6,$
+REST_0021,Dominguez Ltd,Indian,4.7,23.4,$
+REST_0022,Sanders and Sons,Healthy/Vegan,3.8,28.0,$
+REST_0023,"Morris, Campbell and Owens",Dessert,4.3,19.3,$$
+REST_0024,"Howard, Green and Hunt",Healthy/Vegan,3.9,22.8,$$$$
+REST_0025,Owens-Lang,Mexican,5.0,20.0,$$
+REST_0026,"Harrison, Franco and Rocha",Dessert,4.5,17.6,$$$$
+REST_0027,Edwards-Williams,Italian,3.9,28.2,$$
+REST_0028,Figueroa Inc,Dessert,3.7,18.8,$$$$
+REST_0029,Tran-Silva,Healthy/Vegan,4.2,25.3,$
+REST_0030,"Butler, Hernandez and Rivera",Asian,4.1,21.2,$
+REST_0031,Hudson-Sanchez,Asian,4.5,22.2,$$$
+REST_0032,"Pena, Cohen and Scott",Fast Food,3.8,14.1,$$$$
+REST_0033,Levy-May,Italian,4.7,27.7,$$$
+REST_0034,Murray-Oconnor,Fast Food,3.7,16.1,$
+REST_0035,Jackson-Cortez,Healthy/Vegan,3.4,25.1,$
+REST_0036,White-Preston,Dessert,5.0,17.2,$$$
+REST_0037,"Bernard, Warren and Combs",Dessert,3.9,22.3,$$
+REST_0038,Landry Ltd,Fast Food,3.6,13.1,$
+REST_0039,Duran Group,Healthy/Vegan,4.4,23.1,$$$$
+REST_0040,Kirby and Sons,Indian,4.1,22.2,$$
+REST_0041,Mann Inc,Dessert,4.4,20.8,$$$$
+REST_0042,Wagner LLC,Asian,4.1,21.1,$
+REST_0043,Williamson Ltd,Italian,4.2,26.4,$
+REST_0044,"Durham, Hopkins and Smith",Healthy/Vegan,4.0,24.5,$$
+REST_0045,"Arnold, Smith and Moreno",Dessert,3.8,19.9,$$
+REST_0046,Nichols-Mitchell,Mexican,3.9,16.7,$$$$
+REST_0047,"Li, Craig and Drake",Italian,4.3,25.6,$$$
+REST_0048,Rodriguez Inc,Fast Food,4.5,13.7,$$$
+REST_0049,"Hernandez, Lee and Fox",Italian,4.4,26.7,$
+REST_0050,Adams-Sanders,Fast Food,4.4,12.5,$$$$
+REST_0051,Chung-Stevens,Indian,4.3,21.1,$$$$
+REST_0052,Branch and Sons,Italian,4.2,18.7,$
+REST_0053,Sutton-Abbott,Dessert,4.3,26.6,$$$$
+REST_0054,"Frey, Santos and Johnson",Mexican,4.1,17.8,$
+REST_0055,Gray-Tran,Indian,4.3,20.9,$$
+REST_0056,Walsh Ltd,Indian,4.7,16.2,$$
+REST_0057,Miller Group,Healthy/Vegan,4.5,26.8,$$$$
+REST_0058,"Mueller, Knight and Hodge",Italian,4.1,26.0,$$$
+REST_0059,Jacobson Inc,Fast Food,4.6,17.6,$$$$
+REST_0060,Lewis Ltd,Fast Food,3.7,17.5,$
+REST_0061,"Alvarez, Williams and Jones",Mexican,4.2,20.2,$$$
+REST_0062,Lam-Elliott,Italian,4.2,24.5,$
+REST_0063,White LLC,Asian,4.7,19.7,$$$$
+REST_0064,Ali PLC,Italian,3.8,23.8,$$$$
+REST_0065,Goodwin Ltd,Healthy/Vegan,4.3,28.7,$$$
+REST_0066,Hickman-Evans,Indian,4.4,17.4,$
+REST_0067,"Allen, Davenport and Price",Healthy/Vegan,5.0,25.8,$
+REST_0068,"Rivera, Campos and Taylor",Healthy/Vegan,4.7,24.5,$$
+REST_0069,"Ramsey, Mason and Mccann",Indian,4.4,22.5,$
+REST_0070,Davis and Sons,Dessert,4.7,23.2,$$$
+REST_0071,Peterson PLC,Fast Food,4.5,14.1,$
+REST_0072,"Sanders, Ayala and Johnson",Healthy/Vegan,4.0,26.0,$$$
+REST_0073,Bowers-Hayes,Dessert,4.6,19.3,$$
+REST_0074,Kelly Group,Dessert,4.6,24.4,$$$$
+REST_0075,Lopez-Willis,Indian,3.8,17.5,$$$$
+REST_0076,Miller-Montgomery,Indian,4.1,20.9,$$
+REST_0077,Marquez Inc,Dessert,4.0,24.1,$$
+REST_0078,Moore-Dawson,Italian,4.4,25.1,$$$$
+REST_0079,"Moore, Price and Ward",Italian,3.6,21.1,$$$
+REST_0080,Smith LLC,Fast Food,4.3,8.6,$
+REST_0081,Ward-Nelson,Dessert,4.6,19.5,$$
+REST_0082,Miller Group,Italian,5.0,31.9,$$$
+REST_0083,Hawkins-Hunt,Healthy/Vegan,4.1,24.7,$$$$
+REST_0084,Johnson LLC,Dessert,4.6,25.1,$$$$
+REST_0085,"Davis, George and Nguyen",Healthy/Vegan,3.5,19.6,$
+REST_0086,Smith-Gutierrez,Dessert,4.0,21.7,$$
+REST_0087,Hardy PLC,Healthy/Vegan,4.4,28.2,$$$
+REST_0088,Armstrong and Sons,Dessert,3.7,13.1,$
+REST_0089,"James, Taylor and Turner",Dessert,4.5,17.5,$$$
+REST_0090,Thomas-Jackson,Healthy/Vegan,3.4,25.4,$
+REST_0091,Fisher-Washington,Dessert,4.5,19.6,$$$
+REST_0092,Ward and Sons,Asian,4.0,19.5,$$$$
+REST_0093,"Weber, Wheeler and Gonzalez",Indian,4.1,16.0,$$$$
+REST_0094,Taylor Inc,Asian,3.9,21.6,$$$
+REST_0095,Cook-Oliver,Fast Food,4.3,15.5,$$$$
+REST_0096,Alexander-Jordan,Indian,3.8,19.5,$$$$
+REST_0097,"Mccann, Taylor and Flores",Healthy/Vegan,3.3,25.5,$$$
+REST_0098,"Harris, Edwards and Oconnell",Dessert,4.8,15.6,$
+REST_0099,Carter-Neal,Indian,4.0,21.0,$$$$
+REST_0100,Faulkner-Casey,Italian,4.7,23.7,$$$$
+REST_0101,Bennett-Velasquez,Mexican,3.9,14.1,$$
+REST_0102,Diaz-Frederick,Mexican,4.2,26.1,$$$
+REST_0103,Vargas PLC,Healthy/Vegan,4.3,24.9,$
+REST_0104,Maldonado PLC,Italian,4.3,25.0,$$$
+REST_0105,Benton Group,Indian,3.9,22.5,$$$
+REST_0106,"Clark, Salinas and Guerra",Healthy/Vegan,4.3,25.1,$$$$
+REST_0107,Fuentes Group,Mexican,3.8,23.9,$$$$
+REST_0108,"Porter, Schultz and Allen",Fast Food,4.5,13.3,$$$$
+REST_0109,"Moore, Henderson and Bennett",Healthy/Vegan,4.6,23.5,$$$$
+REST_0110,Ewing-Mendoza,Italian,3.9,22.7,$$$
+REST_0111,Ferguson-Mclean,Mexican,3.5,21.4,$$$$
+REST_0112,"Barnes, Johnson and Schmitt",Healthy/Vegan,3.5,21.3,$
+REST_0113,"Woodard, Herrera and Little",Italian,3.4,24.7,$$$$
+REST_0114,Rodriguez and Sons,Healthy/Vegan,4.1,24.0,$$
+REST_0115,"Ortega, Jackson and Salazar",Italian,3.8,21.5,$$
+REST_0116,"Terrell, Byrd and Ross",Dessert,4.4,18.3,$$$$
+REST_0117,Sheppard-Jordan,Italian,4.3,22.3,$$
+REST_0118,Garcia and Sons,Italian,4.3,28.9,$$
+REST_0119,"Burgess, Grant and Watts",Dessert,4.4,18.8,$$$
+REST_0120,Griffin Group,Healthy/Vegan,4.3,24.3,$$$$
+REST_0121,Barton-Chapman,Mexican,4.2,19.0,$
+REST_0122,"Hernandez, Cuevas and Webb",Mexican,4.1,20.6,$$
+REST_0123,Perry-Nixon,Indian,3.8,17.0,$$$$
+REST_0124,Guerra Ltd,Healthy/Vegan,3.6,20.2,$$$
+REST_0125,Bailey LLC,Asian,3.7,20.5,$
+REST_0126,Mueller-Boyd,Mexican,3.8,21.5,$$
+REST_0127,Alvarez-Kim,Mexican,4.2,14.1,$$$
+REST_0128,"Chavez, Jones and Williams",Asian,4.5,22.4,$$$
+REST_0129,"Wilson, Sweeney and Wong",Indian,3.8,21.3,$$$
+REST_0130,"Marsh, Spears and Yang",Fast Food,3.9,15.3,$
+REST_0131,"Thompson, Moore and Castro",Italian,3.7,19.6,$$
+REST_0132,Hall-Sullivan,Asian,4.0,19.6,$$$$
+REST_0133,Lopez Ltd,Mexican,4.0,16.4,$
+REST_0134,Foster-Mclaughlin,Healthy/Vegan,4.0,25.8,$$$
+REST_0135,Cole Group,Indian,4.2,20.5,$$$$
+REST_0136,Smith-Lewis,Fast Food,3.9,18.5,$$$
+REST_0137,Goodwin-Stokes,Indian,3.7,21.5,$$$$
+REST_0138,Ray PLC,Fast Food,4.7,16.4,$
+REST_0139,Diaz and Sons,Fast Food,4.1,13.4,$
+REST_0140,Wilson-Lambert,Asian,4.6,15.7,$$
+REST_0141,Rose-Fowler,Indian,3.8,18.8,$$$$
+REST_0142,"Price, Long and Wilson",Italian,4.7,26.1,$$$
+REST_0143,Bruce-Williamson,Indian,3.8,19.1,$$$
+REST_0144,"Mccarthy, Evans and Mendez",Indian,4.0,17.9,$
+REST_0145,Powers LLC,Mexican,4.6,15.9,$$$
+REST_0146,Allen Inc,Healthy/Vegan,4.8,27.5,$$
+REST_0147,Brooks and Sons,Indian,4.6,18.6,$$
+REST_0148,"Price, Carlson and Andrews",Dessert,4.1,15.7,$$$
+REST_0149,Lopez-Reid,Mexican,4.0,21.5,$$
+REST_0150,"Ellison, Arias and Thompson",Italian,4.7,21.7,$$
